@@ -11,6 +11,8 @@ class ViewController: UIViewController {
     var score = 0
     var timeRemaining = 30
     var timerRunning = false
+    
+    //ADDED COMMENT
 
     // IBOutlets
     @IBOutlet weak var scoreLabel: UILabel!
